@@ -6,3 +6,7 @@
 dist/
 public/bundle/*
 node_modules/
+
+#ignore these to see if I can push now
+.github/
+public/
